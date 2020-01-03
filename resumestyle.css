@@ -1,0 +1,26 @@
+body{
+	background-color:#F7CAC9;
+}
+h1{
+ 	text-align:center;
+ 	text-decoration: underline;
+ 	text-shadow:2px 2px Pale-Blue;
+ 	color:#6B5B95;
+}
+h2{
+	color:Indigo;
+}
+h4{
+	color:Purple;
+}
+#heading{
+	font-weight:bold;
+	color:Indigo;
+	text-align:center;
+}
+#course-name{
+ 	font-weight:bold;
+}
+#decl{
+	text-align:center;
+}
